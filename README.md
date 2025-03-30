@@ -1,1 +1,2 @@
 # SupervisedLearning-using-Python
+We plan to predict good car deals based on factors like mileage, days on market, and savings amount. To do this, we’ll build a linear regression model using scikit-learn, which will help us understand the relationship between these features and the car's price. In addition, we built a logistic regression model that predicts if a used car is a good deal or not based on cumlative score from three different scores.
